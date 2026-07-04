@@ -12,3 +12,4 @@ pytest
 numpy<2
 tenacity
 nltk
+langchain-text-splitters

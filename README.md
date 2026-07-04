@@ -64,7 +64,7 @@ The data is automatically kept fresh via a GitHub Actions workflow.
 1. **GitHub Actions Setup**: The workflow `.github/workflows/daily_ingestion.yml` runs daily. 
 2. **Repository Secrets**: Navigate to your GitHub repository settings -> Secrets and Variables -> Actions and add `GROQ_API_KEY`.
 3. **Workflow Dispatch**: Maintainers can manually trigger ingestion anytime from the "Actions" tab in GitHub by selecting "Daily Data Ingestion" and clicking "Run workflow".
-4. **Cron Schedule**: By default, it runs at `30 20 * * *` (02:00 AM IST).
+4. **Cron Schedule**: By default, it runs at `0 5 * * *` (10:30 AM IST).
 
 ## Launching the App
 To start the Streamlit chat interface:
