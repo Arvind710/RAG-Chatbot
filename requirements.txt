@@ -1,6 +1,5 @@
 beautifulsoup4
 requests
-playwright
 langchain
 langchain-community
 chromadb
@@ -8,7 +7,6 @@ sentence-transformers
 groq
 streamlit
 python-dotenv
-pytest
 numpy<2
 tenacity
 nltk
