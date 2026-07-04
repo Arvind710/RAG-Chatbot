@@ -1,0 +1,1033 @@
+Connecting to ChromaDB at: /Users/arvindchaudhary/Downloads/RAG Chatbot/data/vectorstore
+
+Total chunks in ChromaDB: 110
+
+Fetching all items from the collection...
+
+------------------------------------------------------------
+Chunk ID : 618cb9ff-352b-4314-802b-be72752b8633
+Metadata : {'section_type': 'overview', 'has_table': False, 'source_url': 'https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth', 'scheme_name': 'HDFC Gold ETF Fund of Fund Direct Plan Growth', 'scrape_date': '1783089739'}
+Content  : HDFC Gold ETF Fund of Fund Direct Plan Growth - NAV, Mutual Fund Performance & Portfolio
++33.47
+%
+3Y annualised
++1.90
+%
+1D
+1M
+6M
+1Y
+3Y
+5Y
+All
+NAV: 02 ...
+Embedding: Length = 384 | First 5 dims = [ 0.00655876 -0.0567294  -0.03254237  0.04062597 -0.02889372]
+------------------------------------------------------------
+Chunk ID : 6f77ff6b-ee3b-485e-8053-8827abc63372
+Metadata : {'section_type': 'holdings', 'scrape_date': '1783089739', 'source_url': 'https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth', 'has_table': False, 'scheme_name': 'HDFC Gold ETF Fund of Fund Direct Plan Growth'}
+Content  : Holdings (
+3
+)
+Embedding: Length = 384 | First 5 dims = [-0.0074775  -0.03654765  0.00823848  0.03430026  0.03403966]
+------------------------------------------------------------
+Chunk ID : 42ffd2d0-3e16-428b-a80c-0cfa100dff1c
+Metadata : {'section_type': 'holdings', 'has_table': True, 'scrape_date': '1783089739', 'scheme_name': 'HDFC Gold ETF Fund of Fund Direct Plan Growth', 'source_url': 'https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth'}
+Content  : | Name | Sector | Instruments | Assets |
+|---|---|---|---|
+| HDFC Gold ETF | Unspecified | Mutual Fund | 100.00% |
+| Repo | Unspecified | Repo | 0.14%...
+Embedding: Length = 384 | First 5 dims = [ 0.00232839 -0.07432733 -0.01012378  0.01454962 -0.00079635]
+------------------------------------------------------------
+Chunk ID : bca93f97-981c-4213-a1de-1697783e96cb
+Metadata : {'scrape_date': '1783089739', 'has_table': False, 'section_type': 'min_investment', 'scheme_name': 'HDFC Gold ETF Fund of Fund Direct Plan Growth', 'source_url': 'https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth'}
+Content  : Minimum investments
+Min. for 1st investment
+₹100
+Min. for 2nd investment
+₹100
+Min. for SIP
+₹100
+Embedding: Length = 384 | First 5 dims = [-0.0180345  -0.04487358 -0.03007691 -0.04710319 -0.04783696]
+------------------------------------------------------------
+Chunk ID : 8d734f68-d0bd-4784-9a15-2f6d330bea01
+Metadata : {'scrape_date': '1783089739', 'scheme_name': 'HDFC Gold ETF Fund of Fund Direct Plan Growth', 'source_url': 'https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth', 'has_table': False, 'section_type': 'returns'}
+Content  : Annualised returns
+Absolute returns
+Embedding: Length = 384 | First 5 dims = [ 0.00872516 -0.00628405  0.0133087   0.01736376  0.00119559]
+------------------------------------------------------------
+Chunk ID : c4536575-b3aa-4ea5-be08-26edbaeb3c5e
+Metadata : {'has_table': True, 'source_url': 'https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth', 'scheme_name': 'HDFC Gold ETF Fund of Fund Direct Plan Growth', 'scrape_date': '1783089739', 'section_type': 'returns'}
+Content  : | Name | 3Y | 5Y | 10Y | All |
+|---|---|---|---|---|
+| Fund returns | +33.5% | +23.4% | +15.5% | +10.8% |
+| Category average ( Commodities Gold ) | +3...
+Embedding: Length = 384 | First 5 dims = [ 0.00071914 -0.05648226 -0.01572604  0.08136608  0.00963598]
+------------------------------------------------------------
+Chunk ID : 882a25fa-4f11-4804-a87d-51bad950997d
+Metadata : {'scheme_name': 'HDFC Gold ETF Fund of Fund Direct Plan Growth', 'scrape_date': '1783089739', 'has_table': False, 'section_type': 'fund_management', 'source_url': 'https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth'}
+Content  : Fund management
+Mr. Agarwal is a B.Com. and Chartered Accountant
+Prior to joining HDFC Asset Management Company Limited, he has worked with SBI Funds ...
+Embedding: Length = 384 | First 5 dims = [ 0.05909545 -0.01365896 -0.0430143  -0.01348978  0.00768146]
+------------------------------------------------------------
+Chunk ID : e233d16c-1713-44a2-ad28-b0e2fe54a6a7
+Metadata : {'has_table': False, 'source_url': 'https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth', 'scrape_date': '1783089739', 'scheme_name': 'HDFC Gold ETF Fund of Fund Direct Plan Growth', 'section_type': 'fund_info'}
+Content  : About
+HDFC Gold ETF Fund of Fund Direct Plan Growth
+Fund benchmark
+Domestic Price of Gold
+Scheme Information Document(SID)
+Fund house
+Rank (total asse...
+Embedding: Length = 384 | First 5 dims = [ 0.0343444  -0.0662154  -0.01326514  0.02441414 -0.01692352]
+------------------------------------------------------------
+Chunk ID : 07fee9d7-68b0-4d39-8f53-be373b03a145
+Metadata : {'source_url': 'https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth', 'scrape_date': '1783089739', 'section_type': 'fund_info', 'has_table': False, 'scheme_name': 'HDFC Gold ETF Fund of Fund Direct Plan Growth'}
+Content  : --
+Registrar & Transfer Agent
+Cams
+Email
+[email protected]
+Website
+www.camsonline.com
+Address
+7th Floor, Tower II, Rayala Towers, 158, Anna Salai,
+Vai...
+Embedding: Length = 384 | First 5 dims = [-0.00592433 -0.05138277 -0.02063763 -0.01633887  0.00068662]
+------------------------------------------------------------
+Chunk ID : e79efdcc-348f-4460-969b-d9d8b7856828
+Metadata : {'scheme_name': 'HDFC Large Cap Fund Direct Growth', 'source_url': 'https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth', 'scrape_date': '1783093097', 'section_type': 'overview', 'has_table': False}
+Content  : HDFC Large Cap Fund Direct Growth - NAV, Mutual Fund Performance & Portfolio
++11.84
+%
+3Y annualised
++0.67
+%
+1D
+1M
+6M
+1Y
+3Y
+5Y
+All
+NAV: 02 Jul '26
+₹1,2...
+Embedding: Length = 384 | First 5 dims = [-0.00145874 -0.05607618 -0.0434836  -0.00289046 -0.01807606]
+------------------------------------------------------------
+Chunk ID : 6d777af3-ab99-4424-a064-d4c84987b755
+Metadata : {'section_type': 'holdings', 'has_table': False, 'scrape_date': '1783093097', 'source_url': 'https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth', 'scheme_name': 'HDFC Large Cap Fund Direct Growth'}
+Content  : Holdings (
+47
+)
+Embedding: Length = 384 | First 5 dims = [-0.02404702 -0.06403382 -0.00318115 -0.01911758  0.02977623]
+------------------------------------------------------------
+Chunk ID : 2c800def-10c2-4e4e-80e1-24e8a6937e9e
+Metadata : {'scrape_date': '1783093097', 'source_url': 'https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth', 'section_type': 'holdings', 'has_table': True, 'scheme_name': 'HDFC Large Cap Fund Direct Growth'}
+Content  : | Name | Sector | Instruments | Assets |
+|---|---|---|---|
+| ICICI Bank Ltd | Financial | Equity | 9.18% |
+| HDFC Bank Ltd | Financial | Equity | 7.63...
+Embedding: Length = 384 | First 5 dims = [ 0.07986345 -0.03414886 -0.05869593 -0.04664075 -0.02750698]
+------------------------------------------------------------
+Chunk ID : e2dc5b43-0766-4740-b438-f34c6ce7ef60
+Metadata : {'source_url': 'https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth', 'scheme_name': 'HDFC Large Cap Fund Direct Growth', 'scrape_date': '1783093097', 'section_type': 'holdings', 'has_table': False}
+Content  : See All
+Embedding: Length = 384 | First 5 dims = [-0.05548136 -0.05818069  0.01831898 -0.03479081  0.0133992 ]
+------------------------------------------------------------
+Chunk ID : bae71174-7f0d-44b5-955b-3aca8bfb0423
+Metadata : {'section_type': 'min_investment', 'scrape_date': '1783093097', 'scheme_name': 'HDFC Large Cap Fund Direct Growth', 'source_url': 'https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth', 'has_table': False}
+Content  : Minimum investments
+Min. for 1st investment
+₹100
+Min. for 2nd investment
+₹100
+Min. for SIP
+₹100
+Embedding: Length = 384 | First 5 dims = [-0.0180345  -0.04487358 -0.03007691 -0.04710319 -0.04783696]
+------------------------------------------------------------
+Chunk ID : aa639765-03ac-47d3-9767-1da98304fc9b
+Metadata : {'scheme_name': 'HDFC Large Cap Fund Direct Growth', 'section_type': 'returns', 'has_table': False, 'scrape_date': '1783093097', 'source_url': 'https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth'}
+Content  : Annualised returns
+Absolute returns
+Embedding: Length = 384 | First 5 dims = [ 0.00872516 -0.00628405  0.0133087   0.01736376  0.00119559]
+------------------------------------------------------------
+Chunk ID : 2b7a005e-8a17-4d7e-a916-cc7af1a3adc6
+Metadata : {'scheme_name': 'HDFC Large Cap Fund Direct Growth', 'scrape_date': '1783093097', 'source_url': 'https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth', 'section_type': 'returns', 'has_table': True}
+Content  : | Name | 3Y | 5Y | 10Y | All |
+|---|---|---|---|---|
+| Fund returns | +11.8% | +13.2% | +13.4% | +13.2% |
+| Category average ( Equity Large Cap ) | +1...
+Embedding: Length = 384 | First 5 dims = [-0.00379721 -0.07700879 -0.04310673  0.03641715 -0.00231158]
+------------------------------------------------------------
+Chunk ID : e765d95d-9424-4302-b7e1-93295389008e
+Metadata : {'section_type': 'similar_funds', 'scheme_name': 'HDFC Large Cap Fund Direct Growth', 'source_url': 'https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth', 'has_table': False, 'scrape_date': '1783093097'}
+Content  : Compare similar funds
+Embedding: Length = 384 | First 5 dims = [-0.02869199 -0.08632385 -0.05715927  0.03678941  0.01471495]
+------------------------------------------------------------
+Chunk ID : d104b992-e3e3-42e9-92d2-4008b369288c
+Metadata : {'scrape_date': '1783093097', 'scheme_name': 'HDFC Large Cap Fund Direct Growth', 'section_type': 'similar_funds', 'has_table': True, 'source_url': 'https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth'}
+Content  : | | Name | 1Y | 3Y | Fund Size(Cr) |
+|---|---|---|---|---|
+| | Invesco India Largecap Fund Direct Growth | +2.60% | +15.51% | 1,748.94 |
+| | WhiteOak ...
+Embedding: Length = 384 | First 5 dims = [-0.01165823 -0.08933584 -0.04945375  0.00373284 -0.01252169]
+------------------------------------------------------------
+Chunk ID : 6db88690-41e6-4c74-a8ee-dfad5d318da0
+Metadata : {'scheme_name': 'HDFC Large Cap Fund Direct Growth', 'section_type': 'fund_management', 'source_url': 'https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth', 'has_table': False, 'scrape_date': '1783093097'}
+Content  : Fund management
+Mr. Baijal has done PGDM(MBA) from IIM Calcutta and is an engineering graduate of Delhi college of Engineering
+Prior to joining HDFC M...
+Embedding: Length = 384 | First 5 dims = [ 0.01104569 -0.02708858 -0.08425304 -0.0478066   0.02019016]
+------------------------------------------------------------
+Chunk ID : af798175-9f19-4cdb-b735-8419e22984e8
+Metadata : {'section_type': 'fund_management', 'source_url': 'https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth', 'scrape_date': '1783093097', 'scheme_name': 'HDFC Large Cap Fund Direct Growth', 'has_table': False}
+Content  : Mr. Dhruv has done B.Com, CA and CFA
+Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global R...
+Embedding: Length = 384 | First 5 dims = [-0.02461536 -0.00808062 -0.13362052 -0.06435605  0.02786434]
+------------------------------------------------------------
+Chunk ID : 1b883af4-489f-4bd7-8697-d886b0ebdd70
+Metadata : {'section_type': 'fund_info', 'scrape_date': '1783093097', 'has_table': False, 'scheme_name': 'HDFC Large Cap Fund Direct Growth', 'source_url': 'https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth'}
+Content  : About
+HDFC Large Cap Fund Direct Growth
+Fund benchmark
+NIFTY 100 Total Return Index
+Scheme Information Document(SID)
+Fund house
+Rank (total assets)
+#2...
+Embedding: Length = 384 | First 5 dims = [ 0.03141278 -0.0573011  -0.02331147 -0.02869528 -0.0204826 ]
+------------------------------------------------------------
+Chunk ID : 23bb210a-e1f6-49fa-9b88-ddd1115faa5a
+Metadata : {'scheme_name': 'HDFC Large Cap Fund Direct Growth', 'source_url': 'https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth', 'has_table': False, 'scrape_date': '1783093097', 'section_type': 'fund_info'}
+Content  : HDFC Bank
+Registrar & Transfer Agent
+Cams
+Email
+[email protected]
+Website
+www.camsonline.com
+Address
+7th Floor, Tower II, Rayala Towers, 158, Anna Sal...
+Embedding: Length = 384 | First 5 dims = [ 0.00200103 -0.05178279 -0.0252344  -0.01725927  0.0134404 ]
+------------------------------------------------------------
+Chunk ID : f6341d01-d449-42c6-b630-aead56299446
+Metadata : {'scheme_name': 'HDFC Small Cap Fund Direct Growth', 'section_type': 'overview', 'scrape_date': '1783089740', 'has_table': False, 'source_url': 'https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth'}
+Content  : HDFC Small Cap Fund Direct Growth - NAV, Mutual Fund Performance & Portfolio
++14.85
+%
+3Y annualised
++1.14
+%
+1D
+1M
+6M
+1Y
+3Y
+5Y
+All
+NAV: 02 Jul '26
+₹158...
+Embedding: Length = 384 | First 5 dims = [-0.00226054 -0.04178378 -0.03464173 -0.01976965 -0.01325425]
+------------------------------------------------------------
+Chunk ID : b155eb6b-ff04-4992-9501-42b5677dc95e
+Metadata : {'scheme_name': 'HDFC Small Cap Fund Direct Growth', 'section_type': 'holdings', 'source_url': 'https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth', 'scrape_date': '1783089740', 'has_table': False}
+Content  : Holdings (
+85
+)
+Embedding: Length = 384 | First 5 dims = [-0.02975663 -0.03415897  0.03696277 -0.0275998   0.01528611]
+------------------------------------------------------------
+Chunk ID : 8f6f024e-b0a0-45fc-8c47-ee1d994613b9
+Metadata : {'section_type': 'holdings', 'has_table': True, 'scrape_date': '1783089740', 'scheme_name': 'HDFC Small Cap Fund Direct Growth', 'source_url': 'https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth'}
+Content  : | Name | Sector | Instruments | Assets |
+|---|---|---|---|
+| Repo | Unspecified | Repo | 10.28% |
+| Firstsource Solutions Ltd | Industrials | Equity |...
+Embedding: Length = 384 | First 5 dims = [ 0.03983936 -0.0376246  -0.02066364 -0.00189946 -0.02615574]
+------------------------------------------------------------
+Chunk ID : 2d409095-3d0b-4f21-bf59-fabe91b5169a
+Metadata : {'section_type': 'holdings', 'has_table': False, 'scrape_date': '1783089740', 'source_url': 'https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth', 'scheme_name': 'HDFC Small Cap Fund Direct Growth'}
+Content  : See All
+Embedding: Length = 384 | First 5 dims = [-0.05548136 -0.05818069  0.01831898 -0.03479081  0.0133992 ]
+------------------------------------------------------------
+Chunk ID : 755917c7-ff1c-4a2e-a24d-315b6a9c6828
+Metadata : {'scheme_name': 'HDFC Small Cap Fund Direct Growth', 'section_type': 'min_investment', 'source_url': 'https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth', 'scrape_date': '1783089740', 'has_table': False}
+Content  : Minimum investments
+Min. for 1st investment
+₹100
+Min. for 2nd investment
+₹100
+Min. for SIP
+₹100
+Embedding: Length = 384 | First 5 dims = [-0.0180345  -0.04487358 -0.03007691 -0.04710319 -0.04783696]
+------------------------------------------------------------
+Chunk ID : ac686528-5c00-47a5-bd9d-48520a996d41
+Metadata : {'source_url': 'https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth', 'scheme_name': 'HDFC Small Cap Fund Direct Growth', 'scrape_date': '1783089740', 'section_type': 'returns', 'has_table': False}
+Content  : Annualised returns
+Absolute returns
+Embedding: Length = 384 | First 5 dims = [ 0.00872516 -0.00628405  0.0133087   0.01736376  0.00119559]
+------------------------------------------------------------
+Chunk ID : 4931dd6d-1d8b-4b03-836d-ad3e05f05355
+Metadata : {'section_type': 'returns', 'scrape_date': '1783089740', 'scheme_name': 'HDFC Small Cap Fund Direct Growth', 'has_table': True, 'source_url': 'https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth'}
+Content  : | Name | 3Y | 5Y | 10Y | All |
+|---|---|---|---|---|
+| Fund returns | +14.8% | +16.8% | +18.5% | +18.6% |
+| Category average ( Equity Small Cap ) | +1...
+Embedding: Length = 384 | First 5 dims = [ 0.00450291 -0.07141092 -0.03971373  0.01890918 -0.00327237]
+------------------------------------------------------------
+Chunk ID : aa9d8f65-7a6f-478a-8c6a-b578c024419e
+Metadata : {'section_type': 'similar_funds', 'scrape_date': '1783089740', 'scheme_name': 'HDFC Small Cap Fund Direct Growth', 'has_table': False, 'source_url': 'https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth'}
+Content  : Compare similar funds
+Embedding: Length = 384 | First 5 dims = [-0.02869199 -0.08632385 -0.05715927  0.03678941  0.01471495]
+------------------------------------------------------------
+Chunk ID : cb81f859-19c0-41e6-a6a7-622857cd506c
+Metadata : {'section_type': 'similar_funds', 'has_table': True, 'scheme_name': 'HDFC Small Cap Fund Direct Growth', 'source_url': 'https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth', 'scrape_date': '1783089740'}
+Content  : | | Name | 1Y | 3Y | Fund Size(Cr) |
+|---|---|---|---|---|
+| | Bandhan Small Cap Fund Direct Growth | +7.75% | +29.24% | 27,219.13 |
+| | Invesco India...
+Embedding: Length = 384 | First 5 dims = [-0.00966917 -0.08296228 -0.04597389 -0.00838544 -0.00851275]
+------------------------------------------------------------
+Chunk ID : 84a7b397-c041-4c99-97ca-3796e80aceb5
+Metadata : {'scrape_date': '1783089740', 'section_type': 'fund_management', 'has_table': False, 'scheme_name': 'HDFC Small Cap Fund Direct Growth', 'source_url': 'https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth'}
+Content  : Fund management
+Mr. Dhruv has done B.Com, CA and CFA
+Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs,...
+Embedding: Length = 384 | First 5 dims = [-0.00703136  0.01299516 -0.07916577 -0.05290844  0.03796574]
+------------------------------------------------------------
+Chunk ID : a214c35a-2ca6-4dbb-a91b-ccc8c5dd88af
+Metadata : {'has_table': False, 'source_url': 'https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth', 'section_type': 'fund_info', 'scrape_date': '1783089740', 'scheme_name': 'HDFC Small Cap Fund Direct Growth'}
+Content  : About
+HDFC Small Cap Fund Direct Growth
+Fund benchmark
+BSE 250 SmallCap Total Return Index
+Scheme Information Document(SID)
+Fund house
+Rank (total ass...
+Embedding: Length = 384 | First 5 dims = [ 0.02528254 -0.05341734 -0.0118472  -0.02310465 -0.00385677]
+------------------------------------------------------------
+Chunk ID : 687b271b-c345-428c-8952-666751a64177
+Metadata : {'has_table': False, 'scrape_date': '1783089740', 'section_type': 'fund_info', 'scheme_name': 'HDFC Small Cap Fund Direct Growth', 'source_url': 'https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth'}
+Content  : Citibank NA
+Registrar & Transfer Agent
+Cams
+Email
+[email protected]
+Website
+www.camsonline.com
+Address
+7th Floor, Tower II, Rayala Towers, 158, Anna S...
+Embedding: Length = 384 | First 5 dims = [-0.01698641 -0.05806884 -0.03164588  0.00229487 -0.00500118]
+------------------------------------------------------------
+Chunk ID : 1040d4eb-e463-4b6a-9ebb-41e6a2106a77
+Metadata : {'scrape_date': '1783089740', 'source_url': 'https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth', 'has_table': False, 'scheme_name': 'HDFC Mid Cap Fund Direct Growth', 'section_type': 'overview'}
+Content  : HDFC Mid Cap Fund Direct Growth - NAV, Mutual Fund Performance & Portfolio
++21.02
+%
+3Y annualised
++1.05
+%
+1D
+1M
+6M
+1Y
+3Y
+5Y
+All
+NAV: 02 Jul '26
+₹229.5...
+Embedding: Length = 384 | First 5 dims = [-0.01440735 -0.03502463 -0.02674114 -0.02236191 -0.03183952]
+------------------------------------------------------------
+Chunk ID : f2f9a689-3fc3-4b26-9549-a37034a62e9d
+Metadata : {'scrape_date': '1783089740', 'source_url': 'https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth', 'section_type': 'holdings', 'has_table': False, 'scheme_name': 'HDFC Mid Cap Fund Direct Growth'}
+Content  : Holdings (
+78
+)
+Embedding: Length = 384 | First 5 dims = [-0.01611999 -0.03882236  0.03355673 -0.04587395  0.01942541]
+------------------------------------------------------------
+Chunk ID : bf092cbd-c979-495c-ae63-65dd75a8a838
+Metadata : {'source_url': 'https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth', 'scrape_date': '1783089740', 'section_type': 'holdings', 'has_table': True, 'scheme_name': 'HDFC Mid Cap Fund Direct Growth'}
+Content  : | Name | Sector | Instruments | Assets |
+|---|---|---|---|
+| Repo | Unspecified | Repo | 7.68% |
+| Max Financial Services Ltd | Financial | Equity | 4...
+Embedding: Length = 384 | First 5 dims = [ 0.05265169 -0.03849897 -0.04665818 -0.00436439 -0.01916506]
+------------------------------------------------------------
+Chunk ID : 8edfc8cc-1e33-40a9-ab4a-c8be506c3186
+Metadata : {'scrape_date': '1783089740', 'has_table': False, 'scheme_name': 'HDFC Mid Cap Fund Direct Growth', 'source_url': 'https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth', 'section_type': 'holdings'}
+Content  : See All
+Embedding: Length = 384 | First 5 dims = [-0.05548136 -0.05818069  0.01831898 -0.03479081  0.0133992 ]
+------------------------------------------------------------
+Chunk ID : 9380cb9a-dccc-416a-9054-93c28747760e
+Metadata : {'scrape_date': '1783089740', 'source_url': 'https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth', 'has_table': False, 'section_type': 'min_investment', 'scheme_name': 'HDFC Mid Cap Fund Direct Growth'}
+Content  : Minimum investments
+Min. for 1st investment
+₹100
+Min. for 2nd investment
+₹100
+Min. for SIP
+₹100
+Embedding: Length = 384 | First 5 dims = [-0.0180345  -0.04487358 -0.03007691 -0.04710319 -0.04783696]
+------------------------------------------------------------
+Chunk ID : 1d10b038-4eb1-4f41-bddb-84d996193b26
+Metadata : {'section_type': 'returns', 'has_table': False, 'source_url': 'https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth', 'scheme_name': 'HDFC Mid Cap Fund Direct Growth', 'scrape_date': '1783089740'}
+Content  : Annualised returns
+Absolute returns
+Embedding: Length = 384 | First 5 dims = [ 0.00872516 -0.00628405  0.0133087   0.01736376  0.00119559]
+------------------------------------------------------------
+Chunk ID : c61b80ee-b00e-4699-b1ef-017735ae4d4d
+Metadata : {'section_type': 'returns', 'scheme_name': 'HDFC Mid Cap Fund Direct Growth', 'has_table': True, 'source_url': 'https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth', 'scrape_date': '1783089740'}
+Content  : | Name | 3Y | 5Y | 10Y | All |
+|---|---|---|---|---|
+| Fund returns | +21.0% | +20.7% | +18.6% | +20.4% |
+| Category average ( Equity Mid Cap ) | +21....
+Embedding: Length = 384 | First 5 dims = [-0.00295916 -0.05865987 -0.03193713  0.02372349 -0.01522276]
+------------------------------------------------------------
+Chunk ID : 77c837af-d3ec-4501-9e9d-4c2d42df9011
+Metadata : {'scrape_date': '1783089740', 'scheme_name': 'HDFC Mid Cap Fund Direct Growth', 'source_url': 'https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth', 'has_table': False, 'section_type': 'similar_funds'}
+Content  : Compare similar funds
+Embedding: Length = 384 | First 5 dims = [-0.02869199 -0.08632385 -0.05715927  0.03678941  0.01471495]
+------------------------------------------------------------
+Chunk ID : 5f4d21fb-01ce-4005-9767-fe7c904bf50e
+Metadata : {'section_type': 'similar_funds', 'scrape_date': '1783089740', 'has_table': True, 'scheme_name': 'HDFC Mid Cap Fund Direct Growth', 'source_url': 'https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth'}
+Content  : | | Name | 1Y | 3Y | Fund Size(Cr) |
+|---|---|---|---|---|
+| | WhiteOak Capital Mid Cap Fund Direct Growth | +12.15% | +25.14% | 5,732.44 |
+| | Edelwe...
+Embedding: Length = 384 | First 5 dims = [-0.01629018 -0.07149437 -0.03101443 -0.00783095 -0.00290288]
+------------------------------------------------------------
+Chunk ID : 39c24086-834d-4361-ae3a-13266ad9b350
+Metadata : {'scrape_date': '1783089740', 'section_type': 'fund_management', 'has_table': False, 'scheme_name': 'HDFC Mid Cap Fund Direct Growth', 'source_url': 'https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth'}
+Content  : Fund management
+Mr. Setalvad is a B. Sc and MBA from University of North Carolina.
+Prior to joining HDFC AMC he has worked with New Vernon Advisory Se...
+Embedding: Length = 384 | First 5 dims = [ 0.00285608  0.02159435 -0.04336567 -0.03412964  0.03332796]
+------------------------------------------------------------
+Chunk ID : f64117e8-0240-4258-8332-5349ff6cf39e
+Metadata : {'has_table': False, 'source_url': 'https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth', 'section_type': 'fund_info', 'scheme_name': 'HDFC Mid Cap Fund Direct Growth', 'scrape_date': '1783089740'}
+Content  : About
+HDFC Mid Cap Fund Direct Growth
+Fund benchmark
+NIFTY Midcap 150 Total Return Index
+Scheme Information Document(SID)
+Fund house
+Rank (total asset...
+Embedding: Length = 384 | First 5 dims = [ 0.01797829 -0.05453804 -0.01052895 -0.03397451 -0.02432373]
+------------------------------------------------------------
+Chunk ID : 06e47175-05de-4de5-96c1-85e9d515af65
+Metadata : {'has_table': False, 'scrape_date': '1783089740', 'section_type': 'fund_info', 'source_url': 'https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth', 'scheme_name': 'HDFC Mid Cap Fund Direct Growth'}
+Content  : --
+Registrar & Transfer Agent
+Cams
+Email
+[email protected]
+Website
+www.camsonline.com
+Address
+7th Floor, Tower II, Rayala Towers, 158, Anna Salai,
+Vai...
+Embedding: Length = 384 | First 5 dims = [-0.00592433 -0.05138277 -0.02063763 -0.01633887  0.00068662]
+------------------------------------------------------------
+Chunk ID : 8f7e45bf-2984-45bd-871b-232e902de1d7
+Metadata : {'scheme_name': 'HDFC Silver ETF FoF Direct Growth', 'scrape_date': '1783093098', 'has_table': False, 'source_url': 'https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth', 'section_type': 'overview'}
+Content  : HDFC Silver ETF FoF Direct Growth - NAV, Mutual Fund Performance & Portfolio
++46.65
+%
+3Y annualised
++2.44
+%
+1D
+1M
+6M
+1Y
+3Y
+All
+NAV: 02 Jul '26
+₹37.42
+...
+Embedding: Length = 384 | First 5 dims = [ 0.00876124 -0.04484465 -0.04248239 -0.00603938  0.00468714]
+------------------------------------------------------------
+Chunk ID : b650abe0-d8bd-4a5b-9370-476d531212de
+Metadata : {'has_table': False, 'scheme_name': 'HDFC Silver ETF FoF Direct Growth', 'section_type': 'holdings', 'source_url': 'https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth', 'scrape_date': '1783093098'}
+Content  : Holdings (
+3
+)
+Embedding: Length = 384 | First 5 dims = [-0.0074775  -0.03654765  0.00823848  0.03430026  0.03403966]
+------------------------------------------------------------
+Chunk ID : 2cc6b299-057a-4f0c-9e20-ebfd22c51d4e
+Metadata : {'has_table': True, 'scheme_name': 'HDFC Silver ETF FoF Direct Growth', 'section_type': 'holdings', 'scrape_date': '1783093098', 'source_url': 'https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth'}
+Content  : | Name | Sector | Instruments | Assets |
+|---|---|---|---|
+| HDFC Silver ETF Regular - Growth | Unspecified | Mutual Fund | 100.05% |
+| Repo | Unspeci...
+Embedding: Length = 384 | First 5 dims = [-0.00081461 -0.06254967 -0.01199917 -0.00755575  0.00063927]
+------------------------------------------------------------
+Chunk ID : 5712f97b-f0d5-43fa-b908-5e874bbbf51b
+Metadata : {'source_url': 'https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth', 'has_table': False, 'scrape_date': '1783093098', 'scheme_name': 'HDFC Silver ETF FoF Direct Growth', 'section_type': 'min_investment'}
+Content  : Minimum investments
+Min. for 1st investment
+₹100
+Min. for 2nd investment
+₹100
+Min. for SIP
+₹100
+Embedding: Length = 384 | First 5 dims = [-0.0180345  -0.04487358 -0.03007691 -0.04710319 -0.04783696]
+------------------------------------------------------------
+Chunk ID : 1852c668-bca3-4091-8ec6-694703716a96
+Metadata : {'scrape_date': '1783093098', 'section_type': 'returns', 'source_url': 'https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth', 'has_table': False, 'scheme_name': 'HDFC Silver ETF FoF Direct Growth'}
+Content  : Annualised returns
+Absolute returns
+Embedding: Length = 384 | First 5 dims = [ 0.00872516 -0.00628405  0.0133087   0.01736376  0.00119559]
+------------------------------------------------------------
+Chunk ID : 88683f63-22ed-4171-b800-b3f44e4627c8
+Metadata : {'scheme_name': 'HDFC Silver ETF FoF Direct Growth', 'scrape_date': '1783093098', 'source_url': 'https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth', 'has_table': True, 'section_type': 'returns'}
+Content  : | Name | 6M | 1Y | 3Y | All |
+|---|---|---|---|---|
+| Fund returns | -3.0% | +109.0% | +46.6% | +43.5% |
+| Category average ( Commodities Silver ) | +...
+Embedding: Length = 384 | First 5 dims = [ 0.01069121 -0.04318314 -0.02097837  0.03291239  0.0170134 ]
+------------------------------------------------------------
+Chunk ID : f199b294-64ab-490d-abc3-b6f14dd03f64
+Metadata : {'section_type': 'fund_management', 'scheme_name': 'HDFC Silver ETF FoF Direct Growth', 'scrape_date': '1783093098', 'has_table': False, 'source_url': 'https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth'}
+Content  : Fund management
+Mr. Agarwal is a B.Com. and Chartered Accountant
+Prior to joining HDFC Asset Management Company Limited, he has worked with SBI Funds ...
+Embedding: Length = 384 | First 5 dims = [ 0.05909545 -0.01365896 -0.0430143  -0.01348978  0.00768146]
+------------------------------------------------------------
+Chunk ID : ebe34256-d109-4481-a619-035286677e03
+Metadata : {'scheme_name': 'HDFC Silver ETF FoF Direct Growth', 'source_url': 'https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth', 'scrape_date': '1783093098', 'has_table': False, 'section_type': 'fund_info'}
+Content  : About
+HDFC Silver ETF FoF Direct Growth
+Fund benchmark
+Domestic Price of Silver
+Scheme Information Document(SID)
+Fund house
+Rank (total assets)
+#2 in ...
+Embedding: Length = 384 | First 5 dims = [ 0.03778674 -0.06040455 -0.02821032 -0.02187549  0.0067713 ]
+------------------------------------------------------------
+Chunk ID : 3f85354f-f5f8-4de0-aa9e-f09f5118b44c
+Metadata : {'source_url': 'https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth', 'section_type': 'fund_info', 'has_table': False, 'scheme_name': 'HDFC Silver ETF FoF Direct Growth', 'scrape_date': '1783093098'}
+Content  : Cams
+Email
+[email protected]
+Website
+www.camsonline.com
+Address
+7th Floor, Tower II, Rayala Towers, 158, Anna Salai,
+Vaishnavi Tech Park, South Tower,...
+Embedding: Length = 384 | First 5 dims = [-0.01084618 -0.03338357 -0.01325705 -0.00292999  0.02070454]
+------------------------------------------------------------
+Chunk ID : eb97be65-2e7f-4299-b5d2-f32f1a31ddbd
+Metadata : {'scheme_name': 'HDFC Gold ETF Fund of Fund Direct Plan Growth', 'section_type': 'overview', 'scrape_date': '1783093097', 'has_table': False, 'source_url': 'https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth'}
+Content  : HDFC Gold ETF Fund of Fund Direct Plan Growth - NAV, Mutual Fund Performance & Portfolio
++33.47
+%
+3Y annualised
++1.90
+%
+1D
+1M
+6M
+1Y
+3Y
+5Y
+All
+NAV: 02 ...
+Embedding: Length = 384 | First 5 dims = [ 0.00655876 -0.0567294  -0.03254237  0.04062597 -0.02889372]
+------------------------------------------------------------
+Chunk ID : 52633ced-05a1-4c78-ac5d-8a853d388913
+Metadata : {'source_url': 'https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth', 'has_table': False, 'scheme_name': 'HDFC Gold ETF Fund of Fund Direct Plan Growth', 'scrape_date': '1783093097', 'section_type': 'holdings'}
+Content  : Holdings (
+3
+)
+Embedding: Length = 384 | First 5 dims = [-0.0074775  -0.03654765  0.00823848  0.03430026  0.03403966]
+------------------------------------------------------------
+Chunk ID : a2e051a6-c770-4964-a4b9-4d4d89e2967b
+Metadata : {'section_type': 'holdings', 'scrape_date': '1783093097', 'has_table': True, 'scheme_name': 'HDFC Gold ETF Fund of Fund Direct Plan Growth', 'source_url': 'https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth'}
+Content  : | Name | Sector | Instruments | Assets |
+|---|---|---|---|
+| HDFC Gold ETF | Unspecified | Mutual Fund | 100.00% |
+| Repo | Unspecified | Repo | 0.14%...
+Embedding: Length = 384 | First 5 dims = [ 0.00232839 -0.07432733 -0.01012378  0.01454962 -0.00079635]
+------------------------------------------------------------
+Chunk ID : da0c5daa-c8bb-4079-af5e-6b07e2513df2
+Metadata : {'scheme_name': 'HDFC Gold ETF Fund of Fund Direct Plan Growth', 'has_table': False, 'source_url': 'https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth', 'section_type': 'min_investment', 'scrape_date': '1783093097'}
+Content  : Minimum investments
+Min. for 1st investment
+₹100
+Min. for 2nd investment
+₹100
+Min. for SIP
+₹100
+Embedding: Length = 384 | First 5 dims = [-0.0180345  -0.04487358 -0.03007691 -0.04710319 -0.04783696]
+------------------------------------------------------------
+Chunk ID : 6844eca4-9a13-47f7-9faf-dd49fe1bce32
+Metadata : {'scheme_name': 'HDFC Gold ETF Fund of Fund Direct Plan Growth', 'source_url': 'https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth', 'scrape_date': '1783093097', 'section_type': 'returns', 'has_table': False}
+Content  : Annualised returns
+Absolute returns
+Embedding: Length = 384 | First 5 dims = [ 0.00872516 -0.00628405  0.0133087   0.01736376  0.00119559]
+------------------------------------------------------------
+Chunk ID : 943c9588-c2b1-4e36-a99d-d5e7fbb5a3ae
+Metadata : {'source_url': 'https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth', 'scheme_name': 'HDFC Gold ETF Fund of Fund Direct Plan Growth', 'scrape_date': '1783093097', 'section_type': 'returns', 'has_table': True}
+Content  : | Name | 3Y | 5Y | 10Y | All |
+|---|---|---|---|---|
+| Fund returns | +33.5% | +23.4% | +15.5% | +10.8% |
+| Category average ( Commodities Gold ) | +3...
+Embedding: Length = 384 | First 5 dims = [ 0.00071914 -0.05648226 -0.01572604  0.08136608  0.00963598]
+------------------------------------------------------------
+Chunk ID : 068f85b4-ef51-460a-8ab5-a8021d3da332
+Metadata : {'scrape_date': '1783093097', 'has_table': False, 'scheme_name': 'HDFC Gold ETF Fund of Fund Direct Plan Growth', 'section_type': 'fund_management', 'source_url': 'https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth'}
+Content  : Fund management
+Mr. Agarwal is a B.Com. and Chartered Accountant
+Prior to joining HDFC Asset Management Company Limited, he has worked with SBI Funds ...
+Embedding: Length = 384 | First 5 dims = [ 0.05909545 -0.01365896 -0.0430143  -0.01348978  0.00768146]
+------------------------------------------------------------
+Chunk ID : 450d8c20-8d30-43e5-a470-13986f860621
+Metadata : {'section_type': 'fund_info', 'has_table': False, 'scrape_date': '1783093097', 'source_url': 'https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth', 'scheme_name': 'HDFC Gold ETF Fund of Fund Direct Plan Growth'}
+Content  : About
+HDFC Gold ETF Fund of Fund Direct Plan Growth
+Fund benchmark
+Domestic Price of Gold
+Scheme Information Document(SID)
+Fund house
+Rank (total asse...
+Embedding: Length = 384 | First 5 dims = [ 0.0343444  -0.0662154  -0.01326514  0.02441414 -0.01692352]
+------------------------------------------------------------
+Chunk ID : 37aa0b51-0867-4bf6-9cd4-3f316b8d8fad
+Metadata : {'scheme_name': 'HDFC Gold ETF Fund of Fund Direct Plan Growth', 'source_url': 'https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth', 'section_type': 'fund_info', 'scrape_date': '1783093097', 'has_table': False}
+Content  : --
+Registrar & Transfer Agent
+Cams
+Email
+[email protected]
+Website
+www.camsonline.com
+Address
+7th Floor, Tower II, Rayala Towers, 158, Anna Salai,
+Vai...
+Embedding: Length = 384 | First 5 dims = [-0.00592433 -0.05138277 -0.02063763 -0.01633887  0.00068662]
+------------------------------------------------------------
+Chunk ID : a7af431f-beb9-46c3-aafe-6a047d0a890e
+Metadata : {'scrape_date': '1783089740', 'scheme_name': 'HDFC Silver ETF FoF Direct Growth', 'has_table': False, 'source_url': 'https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth', 'section_type': 'overview'}
+Content  : HDFC Silver ETF FoF Direct Growth - NAV, Mutual Fund Performance & Portfolio
++46.65
+%
+3Y annualised
++2.44
+%
+1D
+1M
+6M
+1Y
+3Y
+All
+NAV: 02 Jul '26
+₹37.42
+...
+Embedding: Length = 384 | First 5 dims = [ 0.00876124 -0.04484465 -0.04248239 -0.00603938  0.00468714]
+------------------------------------------------------------
+Chunk ID : 57d1f2af-c185-4ace-b40c-a6699322f384
+Metadata : {'source_url': 'https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth', 'has_table': False, 'scheme_name': 'HDFC Silver ETF FoF Direct Growth', 'section_type': 'holdings', 'scrape_date': '1783089740'}
+Content  : Holdings (
+3
+)
+Embedding: Length = 384 | First 5 dims = [-0.0074775  -0.03654765  0.00823848  0.03430026  0.03403966]
+------------------------------------------------------------
+Chunk ID : b03c2713-0e57-4db2-b936-fe306786251f
+Metadata : {'scheme_name': 'HDFC Silver ETF FoF Direct Growth', 'scrape_date': '1783089740', 'has_table': True, 'section_type': 'holdings', 'source_url': 'https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth'}
+Content  : | Name | Sector | Instruments | Assets |
+|---|---|---|---|
+| HDFC Silver ETF Regular - Growth | Unspecified | Mutual Fund | 100.05% |
+| Repo | Unspeci...
+Embedding: Length = 384 | First 5 dims = [-0.00081461 -0.06254967 -0.01199917 -0.00755575  0.00063927]
+------------------------------------------------------------
+Chunk ID : 37378141-aa2c-4053-93ad-6ca39a60f7c1
+Metadata : {'source_url': 'https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth', 'has_table': False, 'section_type': 'min_investment', 'scrape_date': '1783089740', 'scheme_name': 'HDFC Silver ETF FoF Direct Growth'}
+Content  : Minimum investments
+Min. for 1st investment
+₹100
+Min. for 2nd investment
+₹100
+Min. for SIP
+₹100
+Embedding: Length = 384 | First 5 dims = [-0.0180345  -0.04487358 -0.03007691 -0.04710319 -0.04783696]
+------------------------------------------------------------
+Chunk ID : ad874549-5bb9-46e9-a3ff-ac7f93043960
+Metadata : {'section_type': 'returns', 'scrape_date': '1783089740', 'source_url': 'https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth', 'scheme_name': 'HDFC Silver ETF FoF Direct Growth', 'has_table': False}
+Content  : Annualised returns
+Absolute returns
+Embedding: Length = 384 | First 5 dims = [ 0.00872516 -0.00628405  0.0133087   0.01736376  0.00119559]
+------------------------------------------------------------
+Chunk ID : 0fcbacdb-7b21-41cb-a756-5a6f396500c3
+Metadata : {'section_type': 'returns', 'scheme_name': 'HDFC Silver ETF FoF Direct Growth', 'has_table': True, 'scrape_date': '1783089740', 'source_url': 'https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth'}
+Content  : | Name | 6M | 1Y | 3Y | All |
+|---|---|---|---|---|
+| Fund returns | -3.0% | +109.0% | +46.6% | +43.5% |
+| Category average ( Commodities Silver ) | +...
+Embedding: Length = 384 | First 5 dims = [ 0.01069121 -0.04318314 -0.02097837  0.03291239  0.0170134 ]
+------------------------------------------------------------
+Chunk ID : cc4ff806-8da0-4ac6-81d1-33fcd8db3497
+Metadata : {'scrape_date': '1783089740', 'section_type': 'fund_management', 'source_url': 'https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth', 'scheme_name': 'HDFC Silver ETF FoF Direct Growth', 'has_table': False}
+Content  : Fund management
+Mr. Agarwal is a B.Com. and Chartered Accountant
+Prior to joining HDFC Asset Management Company Limited, he has worked with SBI Funds ...
+Embedding: Length = 384 | First 5 dims = [ 0.05909545 -0.01365896 -0.0430143  -0.01348978  0.00768146]
+------------------------------------------------------------
+Chunk ID : 89989a75-cded-42a1-a686-92722febdf78
+Metadata : {'has_table': False, 'scheme_name': 'HDFC Silver ETF FoF Direct Growth', 'scrape_date': '1783089740', 'section_type': 'fund_info', 'source_url': 'https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth'}
+Content  : About
+HDFC Silver ETF FoF Direct Growth
+Fund benchmark
+Domestic Price of Silver
+Scheme Information Document(SID)
+Fund house
+Rank (total assets)
+#2 in ...
+Embedding: Length = 384 | First 5 dims = [ 0.03778674 -0.06040455 -0.02821032 -0.02187549  0.0067713 ]
+------------------------------------------------------------
+Chunk ID : 7e9ad317-4467-4c0d-8c98-3dcbe92ac466
+Metadata : {'scrape_date': '1783089740', 'source_url': 'https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth', 'section_type': 'fund_info', 'has_table': False, 'scheme_name': 'HDFC Silver ETF FoF Direct Growth'}
+Content  : Cams
+Email
+[email protected]
+Website
+www.camsonline.com
+Address
+7th Floor, Tower II, Rayala Towers, 158, Anna Salai,
+Vaishnavi Tech Park, South Tower,...
+Embedding: Length = 384 | First 5 dims = [-0.01084618 -0.03338357 -0.01325705 -0.00292999  0.02070454]
+------------------------------------------------------------
+Chunk ID : 1e19020e-348d-477b-a0a0-6ec4d1ff036f
+Metadata : {'source_url': 'https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth', 'has_table': False, 'scrape_date': '1783093099', 'scheme_name': 'HDFC Mid Cap Fund Direct Growth', 'section_type': 'overview'}
+Content  : HDFC Mid Cap Fund Direct Growth - NAV, Mutual Fund Performance & Portfolio
++21.02
+%
+3Y annualised
++1.05
+%
+1D
+1M
+6M
+1Y
+3Y
+5Y
+All
+NAV: 02 Jul '26
+₹229.5...
+Embedding: Length = 384 | First 5 dims = [-0.01440735 -0.03502463 -0.02674114 -0.02236191 -0.03183952]
+------------------------------------------------------------
+Chunk ID : bd4ea82e-577a-4ed1-a285-220236e96dd0
+Metadata : {'section_type': 'holdings', 'scheme_name': 'HDFC Mid Cap Fund Direct Growth', 'source_url': 'https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth', 'scrape_date': '1783093099', 'has_table': False}
+Content  : Holdings (
+78
+)
+Embedding: Length = 384 | First 5 dims = [-0.01611999 -0.03882236  0.03355673 -0.04587395  0.01942541]
+------------------------------------------------------------
+Chunk ID : f5ce72a5-3ac3-4fd7-86ec-4e1d1628dd4b
+Metadata : {'section_type': 'holdings', 'has_table': True, 'scheme_name': 'HDFC Mid Cap Fund Direct Growth', 'source_url': 'https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth', 'scrape_date': '1783093099'}
+Content  : | Name | Sector | Instruments | Assets |
+|---|---|---|---|
+| Repo | Unspecified | Repo | 7.68% |
+| Max Financial Services Ltd | Financial | Equity | 4...
+Embedding: Length = 384 | First 5 dims = [ 0.05265169 -0.03849897 -0.04665818 -0.00436439 -0.01916506]
+------------------------------------------------------------
+Chunk ID : 11eccdf5-36a3-4ded-9d44-660971fbbcff
+Metadata : {'scheme_name': 'HDFC Mid Cap Fund Direct Growth', 'section_type': 'holdings', 'scrape_date': '1783093099', 'has_table': False, 'source_url': 'https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth'}
+Content  : See All
+Embedding: Length = 384 | First 5 dims = [-0.05548136 -0.05818069  0.01831898 -0.03479081  0.0133992 ]
+------------------------------------------------------------
+Chunk ID : 148cde2f-e373-49cf-a4f8-b1f04e52caeb
+Metadata : {'has_table': False, 'source_url': 'https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth', 'section_type': 'min_investment', 'scrape_date': '1783093099', 'scheme_name': 'HDFC Mid Cap Fund Direct Growth'}
+Content  : Minimum investments
+Min. for 1st investment
+₹100
+Min. for 2nd investment
+₹100
+Min. for SIP
+₹100
+Embedding: Length = 384 | First 5 dims = [-0.0180345  -0.04487358 -0.03007691 -0.04710319 -0.04783696]
+------------------------------------------------------------
+Chunk ID : 3206e110-f329-40f5-bceb-d79e61c6d85f
+Metadata : {'source_url': 'https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth', 'scrape_date': '1783093099', 'scheme_name': 'HDFC Mid Cap Fund Direct Growth', 'section_type': 'returns', 'has_table': False}
+Content  : Annualised returns
+Absolute returns
+Embedding: Length = 384 | First 5 dims = [ 0.00872516 -0.00628405  0.0133087   0.01736376  0.00119559]
+------------------------------------------------------------
+Chunk ID : 3a9346c1-1835-4668-b937-ee4db7e0bfe3
+Metadata : {'scheme_name': 'HDFC Mid Cap Fund Direct Growth', 'section_type': 'returns', 'scrape_date': '1783093099', 'has_table': True, 'source_url': 'https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth'}
+Content  : | Name | 3Y | 5Y | 10Y | All |
+|---|---|---|---|---|
+| Fund returns | +21.0% | +20.7% | +18.6% | +20.4% |
+| Category average ( Equity Mid Cap ) | +21....
+Embedding: Length = 384 | First 5 dims = [-0.00295916 -0.05865987 -0.03193713  0.02372349 -0.01522276]
+------------------------------------------------------------
+Chunk ID : 690fa130-3dba-4084-82df-8c1ea96d1931
+Metadata : {'has_table': False, 'scrape_date': '1783093099', 'scheme_name': 'HDFC Mid Cap Fund Direct Growth', 'section_type': 'similar_funds', 'source_url': 'https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth'}
+Content  : Compare similar funds
+Embedding: Length = 384 | First 5 dims = [-0.02869199 -0.08632385 -0.05715927  0.03678941  0.01471495]
+------------------------------------------------------------
+Chunk ID : c862f790-5ba8-4e24-8f75-2a83f96f6eb3
+Metadata : {'scrape_date': '1783093099', 'source_url': 'https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth', 'section_type': 'similar_funds', 'has_table': True, 'scheme_name': 'HDFC Mid Cap Fund Direct Growth'}
+Content  : | | Name | 1Y | 3Y | Fund Size(Cr) |
+|---|---|---|---|---|
+| | WhiteOak Capital Mid Cap Fund Direct Growth | +12.15% | +25.14% | 5,732.44 |
+| | Edelwe...
+Embedding: Length = 384 | First 5 dims = [-0.01629018 -0.07149437 -0.03101443 -0.00783095 -0.00290288]
+------------------------------------------------------------
+Chunk ID : 839f56d3-eb9e-4796-9e51-bb6830618b85
+Metadata : {'section_type': 'fund_management', 'source_url': 'https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth', 'scheme_name': 'HDFC Mid Cap Fund Direct Growth', 'has_table': False, 'scrape_date': '1783093099'}
+Content  : Fund management
+Mr. Setalvad is a B. Sc and MBA from University of North Carolina.
+Prior to joining HDFC AMC he has worked with New Vernon Advisory Se...
+Embedding: Length = 384 | First 5 dims = [ 0.00285608  0.02159435 -0.04336567 -0.03412964  0.03332796]
+------------------------------------------------------------
+Chunk ID : 7271f1af-7997-43af-b486-44defa3dd2e2
+Metadata : {'source_url': 'https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth', 'scheme_name': 'HDFC Mid Cap Fund Direct Growth', 'has_table': False, 'scrape_date': '1783093099', 'section_type': 'fund_info'}
+Content  : About
+HDFC Mid Cap Fund Direct Growth
+Fund benchmark
+NIFTY Midcap 150 Total Return Index
+Scheme Information Document(SID)
+Fund house
+Rank (total asset...
+Embedding: Length = 384 | First 5 dims = [ 0.01797829 -0.05453804 -0.01052895 -0.03397451 -0.02432373]
+------------------------------------------------------------
+Chunk ID : 9507581e-4aed-49f1-9a9b-7aff85fdbd6e
+Metadata : {'scrape_date': '1783093099', 'scheme_name': 'HDFC Mid Cap Fund Direct Growth', 'has_table': False, 'section_type': 'fund_info', 'source_url': 'https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth'}
+Content  : --
+Registrar & Transfer Agent
+Cams
+Email
+[email protected]
+Website
+www.camsonline.com
+Address
+7th Floor, Tower II, Rayala Towers, 158, Anna Salai,
+Vai...
+Embedding: Length = 384 | First 5 dims = [-0.00592433 -0.05138277 -0.02063763 -0.01633887  0.00068662]
+------------------------------------------------------------
+Chunk ID : 7915dace-f8b2-4dcb-aa24-6e722d43a8f8
+Metadata : {'source_url': 'https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth', 'scheme_name': 'HDFC Large Cap Fund Direct Growth', 'scrape_date': '1783089739', 'section_type': 'overview', 'has_table': False}
+Content  : HDFC Large Cap Fund Direct Growth - NAV, Mutual Fund Performance & Portfolio
++11.84
+%
+3Y annualised
++0.67
+%
+1D
+1M
+6M
+1Y
+3Y
+5Y
+All
+NAV: 02 Jul '26
+₹1,2...
+Embedding: Length = 384 | First 5 dims = [-0.00145874 -0.05607618 -0.0434836  -0.00289046 -0.01807606]
+------------------------------------------------------------
+Chunk ID : 4f6ff128-9e34-43f9-ab8e-2381f0a5d11f
+Metadata : {'section_type': 'holdings', 'has_table': False, 'scrape_date': '1783089739', 'source_url': 'https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth', 'scheme_name': 'HDFC Large Cap Fund Direct Growth'}
+Content  : Holdings (
+47
+)
+Embedding: Length = 384 | First 5 dims = [-0.024047   -0.06403385 -0.00318113 -0.01911757  0.02977622]
+------------------------------------------------------------
+Chunk ID : 7ee0fe06-3047-4401-a2c8-f5a9b16597e1
+Metadata : {'section_type': 'holdings', 'has_table': True, 'scheme_name': 'HDFC Large Cap Fund Direct Growth', 'source_url': 'https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth', 'scrape_date': '1783089739'}
+Content  : | Name | Sector | Instruments | Assets |
+|---|---|---|---|
+| ICICI Bank Ltd | Financial | Equity | 9.18% |
+| HDFC Bank Ltd | Financial | Equity | 7.63...
+Embedding: Length = 384 | First 5 dims = [ 0.07986345 -0.03414886 -0.05869593 -0.04664075 -0.02750698]
+------------------------------------------------------------
+Chunk ID : 387c0c83-0423-465a-8db4-2805b982ac99
+Metadata : {'scrape_date': '1783089739', 'scheme_name': 'HDFC Large Cap Fund Direct Growth', 'source_url': 'https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth', 'section_type': 'holdings', 'has_table': False}
+Content  : See All
+Embedding: Length = 384 | First 5 dims = [-0.05548136 -0.05818069  0.01831898 -0.03479081  0.0133992 ]
+------------------------------------------------------------
+Chunk ID : 018a438e-9ab0-43c5-9c35-e25d537fef6c
+Metadata : {'scrape_date': '1783089739', 'scheme_name': 'HDFC Large Cap Fund Direct Growth', 'has_table': False, 'section_type': 'min_investment', 'source_url': 'https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth'}
+Content  : Minimum investments
+Min. for 1st investment
+₹100
+Min. for 2nd investment
+₹100
+Min. for SIP
+₹100
+Embedding: Length = 384 | First 5 dims = [-0.0180345  -0.04487358 -0.03007691 -0.04710319 -0.04783696]
+------------------------------------------------------------
+Chunk ID : a5ae86a3-8627-47b1-821b-d17ded848ed3
+Metadata : {'section_type': 'returns', 'scrape_date': '1783089739', 'scheme_name': 'HDFC Large Cap Fund Direct Growth', 'has_table': False, 'source_url': 'https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth'}
+Content  : Annualised returns
+Absolute returns
+Embedding: Length = 384 | First 5 dims = [ 0.00872516 -0.00628405  0.0133087   0.01736376  0.00119559]
+------------------------------------------------------------
+Chunk ID : b8db4226-4eae-465c-a64c-6efe5d9edcfb
+Metadata : {'has_table': True, 'section_type': 'returns', 'scheme_name': 'HDFC Large Cap Fund Direct Growth', 'source_url': 'https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth', 'scrape_date': '1783089739'}
+Content  : | Name | 3Y | 5Y | 10Y | All |
+|---|---|---|---|---|
+| Fund returns | +11.8% | +13.2% | +13.4% | +13.2% |
+| Category average ( Equity Large Cap ) | +1...
+Embedding: Length = 384 | First 5 dims = [-0.00379721 -0.07700879 -0.04310673  0.03641715 -0.00231158]
+------------------------------------------------------------
+Chunk ID : af881dc8-8614-4908-9c85-008e95fd744a
+Metadata : {'scrape_date': '1783089739', 'scheme_name': 'HDFC Large Cap Fund Direct Growth', 'section_type': 'similar_funds', 'source_url': 'https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth', 'has_table': False}
+Content  : Compare similar funds
+Embedding: Length = 384 | First 5 dims = [-0.02869199 -0.08632385 -0.05715927  0.03678941  0.01471495]
+------------------------------------------------------------
+Chunk ID : 33241bec-5999-49eb-9d2d-9958f9002259
+Metadata : {'scrape_date': '1783089739', 'scheme_name': 'HDFC Large Cap Fund Direct Growth', 'source_url': 'https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth', 'has_table': True, 'section_type': 'similar_funds'}
+Content  : | | Name | 1Y | 3Y | Fund Size(Cr) |
+|---|---|---|---|---|
+| | Invesco India Largecap Fund Direct Growth | +2.60% | +15.51% | 1,748.94 |
+| | WhiteOak ...
+Embedding: Length = 384 | First 5 dims = [-0.01165823 -0.08933584 -0.04945375  0.00373284 -0.01252169]
+------------------------------------------------------------
+Chunk ID : afc1e7eb-5dbd-4556-a6f4-c6671eea8126
+Metadata : {'source_url': 'https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth', 'scrape_date': '1783089739', 'scheme_name': 'HDFC Large Cap Fund Direct Growth', 'has_table': False, 'section_type': 'fund_management'}
+Content  : Fund management
+Mr. Baijal has done PGDM(MBA) from IIM Calcutta and is an engineering graduate of Delhi college of Engineering
+Prior to joining HDFC M...
+Embedding: Length = 384 | First 5 dims = [ 0.01104569 -0.02708858 -0.08425304 -0.0478066   0.02019016]
+------------------------------------------------------------
+Chunk ID : aa9dee45-50d3-4366-9502-7977768a4826
+Metadata : {'scheme_name': 'HDFC Large Cap Fund Direct Growth', 'scrape_date': '1783089739', 'section_type': 'fund_management', 'source_url': 'https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth', 'has_table': False}
+Content  : Mr. Dhruv has done B.Com, CA and CFA
+Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global R...
+Embedding: Length = 384 | First 5 dims = [-0.02461536 -0.00808062 -0.13362052 -0.06435605  0.02786434]
+------------------------------------------------------------
+Chunk ID : 96b12f7f-ec4f-48b4-8f87-894bdf538f50
+Metadata : {'has_table': False, 'source_url': 'https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth', 'scheme_name': 'HDFC Large Cap Fund Direct Growth', 'section_type': 'fund_info', 'scrape_date': '1783089739'}
+Content  : About
+HDFC Large Cap Fund Direct Growth
+Fund benchmark
+NIFTY 100 Total Return Index
+Scheme Information Document(SID)
+Fund house
+Rank (total assets)
+#2...
+Embedding: Length = 384 | First 5 dims = [ 0.03141278 -0.0573011  -0.02331147 -0.02869528 -0.0204826 ]
+------------------------------------------------------------
+Chunk ID : 952b333e-ba7c-4aae-9cc1-7ada3aca2c0c
+Metadata : {'section_type': 'fund_info', 'scheme_name': 'HDFC Large Cap Fund Direct Growth', 'has_table': False, 'scrape_date': '1783089739', 'source_url': 'https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth'}
+Content  : HDFC Bank
+Registrar & Transfer Agent
+Cams
+Email
+[email protected]
+Website
+www.camsonline.com
+Address
+7th Floor, Tower II, Rayala Towers, 158, Anna Sal...
+Embedding: Length = 384 | First 5 dims = [ 0.00200103 -0.05178279 -0.0252344  -0.01725927  0.0134404 ]
+------------------------------------------------------------
+Chunk ID : e8f288ff-bdeb-437e-9ad8-dc7f8e37a433
+Metadata : {'scheme_name': 'HDFC Small Cap Fund Direct Growth', 'has_table': False, 'scrape_date': '1783093098', 'section_type': 'overview', 'source_url': 'https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth'}
+Content  : HDFC Small Cap Fund Direct Growth - NAV, Mutual Fund Performance & Portfolio
++14.85
+%
+3Y annualised
++1.14
+%
+1D
+1M
+6M
+1Y
+3Y
+5Y
+All
+NAV: 02 Jul '26
+₹158...
+Embedding: Length = 384 | First 5 dims = [-0.00226054 -0.04178378 -0.03464173 -0.01976965 -0.01325425]
+------------------------------------------------------------
+Chunk ID : 69d09b96-a49f-4ca5-b7f5-988750aa94f3
+Metadata : {'has_table': False, 'scrape_date': '1783093098', 'scheme_name': 'HDFC Small Cap Fund Direct Growth', 'section_type': 'holdings', 'source_url': 'https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth'}
+Content  : Holdings (
+85
+)
+Embedding: Length = 384 | First 5 dims = [-0.02975662 -0.03415897  0.03696274 -0.0275998   0.01528613]
+------------------------------------------------------------
+Chunk ID : 65fbf196-93d5-4a38-ac0f-ec867634d5cc
+Metadata : {'section_type': 'holdings', 'has_table': True, 'source_url': 'https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth', 'scrape_date': '1783093098', 'scheme_name': 'HDFC Small Cap Fund Direct Growth'}
+Content  : | Name | Sector | Instruments | Assets |
+|---|---|---|---|
+| Repo | Unspecified | Repo | 10.28% |
+| Firstsource Solutions Ltd | Industrials | Equity |...
+Embedding: Length = 384 | First 5 dims = [ 0.03983936 -0.0376246  -0.02066364 -0.00189946 -0.02615574]
+------------------------------------------------------------
+Chunk ID : 96a2bd02-dd98-4649-a7e2-ded76d3e1c37
+Metadata : {'source_url': 'https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth', 'has_table': False, 'scheme_name': 'HDFC Small Cap Fund Direct Growth', 'section_type': 'holdings', 'scrape_date': '1783093098'}
+Content  : See All
+Embedding: Length = 384 | First 5 dims = [-0.05548136 -0.05818069  0.01831898 -0.03479081  0.0133992 ]
+------------------------------------------------------------
+Chunk ID : 0ce09e45-533e-4a6d-bdf1-71a524adbada
+Metadata : {'has_table': False, 'section_type': 'min_investment', 'source_url': 'https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth', 'scheme_name': 'HDFC Small Cap Fund Direct Growth', 'scrape_date': '1783093098'}
+Content  : Minimum investments
+Min. for 1st investment
+₹100
+Min. for 2nd investment
+₹100
+Min. for SIP
+₹100
+Embedding: Length = 384 | First 5 dims = [-0.0180345  -0.04487358 -0.03007691 -0.04710319 -0.04783696]
+------------------------------------------------------------
+Chunk ID : 38610b99-aa79-4b5d-ae02-e5c403d8ffb8
+Metadata : {'scheme_name': 'HDFC Small Cap Fund Direct Growth', 'section_type': 'returns', 'has_table': False, 'source_url': 'https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth', 'scrape_date': '1783093098'}
+Content  : Annualised returns
+Absolute returns
+Embedding: Length = 384 | First 5 dims = [ 0.00872516 -0.00628405  0.0133087   0.01736376  0.00119559]
+------------------------------------------------------------
+Chunk ID : 5f0c3c3d-30fc-4be4-9d4e-8278d7e5e934
+Metadata : {'scheme_name': 'HDFC Small Cap Fund Direct Growth', 'section_type': 'returns', 'source_url': 'https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth', 'has_table': True, 'scrape_date': '1783093098'}
+Content  : | Name | 3Y | 5Y | 10Y | All |
+|---|---|---|---|---|
+| Fund returns | +14.8% | +16.8% | +18.5% | +18.6% |
+| Category average ( Equity Small Cap ) | +1...
+Embedding: Length = 384 | First 5 dims = [ 0.00450291 -0.07141092 -0.03971373  0.01890918 -0.00327237]
+------------------------------------------------------------
+Chunk ID : 4dfaea75-a14b-4332-9b92-e78e0579e92f
+Metadata : {'source_url': 'https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth', 'scheme_name': 'HDFC Small Cap Fund Direct Growth', 'section_type': 'similar_funds', 'has_table': False, 'scrape_date': '1783093098'}
+Content  : Compare similar funds
+Embedding: Length = 384 | First 5 dims = [-0.02869199 -0.08632385 -0.05715927  0.03678941  0.01471495]
+------------------------------------------------------------
+Chunk ID : 6bc5f5b9-1503-4615-8e0a-eb8554692036
+Metadata : {'scrape_date': '1783093098', 'section_type': 'similar_funds', 'scheme_name': 'HDFC Small Cap Fund Direct Growth', 'has_table': True, 'source_url': 'https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth'}
+Content  : | | Name | 1Y | 3Y | Fund Size(Cr) |
+|---|---|---|---|---|
+| | Bandhan Small Cap Fund Direct Growth | +7.75% | +29.24% | 27,219.13 |
+| | Invesco India...
+Embedding: Length = 384 | First 5 dims = [-0.00966917 -0.08296228 -0.04597389 -0.00838544 -0.00851275]
+------------------------------------------------------------
+Chunk ID : 298a0e55-264a-4e97-884f-740edd3377c1
+Metadata : {'section_type': 'fund_management', 'scrape_date': '1783093098', 'has_table': False, 'scheme_name': 'HDFC Small Cap Fund Direct Growth', 'source_url': 'https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth'}
+Content  : Fund management
+Mr. Dhruv has done B.Com, CA and CFA
+Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs,...
+Embedding: Length = 384 | First 5 dims = [-0.00703136  0.01299516 -0.07916577 -0.05290844  0.03796574]
+------------------------------------------------------------
+Chunk ID : 95e6c6a1-9429-4881-9dd2-b0dc411b4f35
+Metadata : {'scheme_name': 'HDFC Small Cap Fund Direct Growth', 'section_type': 'fund_info', 'has_table': False, 'source_url': 'https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth', 'scrape_date': '1783093098'}
+Content  : About
+HDFC Small Cap Fund Direct Growth
+Fund benchmark
+BSE 250 SmallCap Total Return Index
+Scheme Information Document(SID)
+Fund house
+Rank (total ass...
+Embedding: Length = 384 | First 5 dims = [ 0.02528254 -0.05341734 -0.0118472  -0.02310465 -0.00385677]
+------------------------------------------------------------
+Chunk ID : f3e04445-8ee4-415a-a387-daedd8b4c35f
+Metadata : {'section_type': 'fund_info', 'scheme_name': 'HDFC Small Cap Fund Direct Growth', 'has_table': False, 'scrape_date': '1783093098', 'source_url': 'https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth'}
+Content  : Citibank NA
+Registrar & Transfer Agent
+Cams
+Email
+[email protected]
+Website
+www.camsonline.com
+Address
+7th Floor, Tower II, Rayala Towers, 158, Anna S...
+Embedding: Length = 384 | First 5 dims = [-0.01698641 -0.05806884 -0.03164588  0.00229487 -0.00500118]
+------------------------------------------------------------
+
+Verification complete. Displayed 110 chunks.

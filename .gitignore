@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Temporary/scratch files
+check_docstrings.py
+add_docstrings.py
+all_python_code.txt
