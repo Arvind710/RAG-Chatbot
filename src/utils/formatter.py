@@ -3,7 +3,19 @@ Response formatter for the RAG chatbot.
 """
 
 import datetime
+import nltk
 from nltk.tokenize import sent_tokenize
+
+# Ensure necessary NLTK data is downloaded in the cloud environment
+try:
+    nltk.data.find('tokenizers/punkt')
+except LookupError:
+    nltk.download('punkt', quiet=True)
+    
+try:
+    nltk.data.find('tokenizers/punkt_tab')
+except LookupError:
+    nltk.download('punkt_tab', quiet=True)
 
 def format_response(llm_response: str, source_url: str = None, scrape_date: str = None) -> str:
     """
